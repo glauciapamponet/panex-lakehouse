@@ -1,0 +1,29 @@
+{
+    "fields": [
+      {
+        "metadata": {},
+        "name": "CidadeID",
+        "nullable": true,
+        "type": "integer"
+      },
+      {
+        "metadata": {},
+        "name": "NomeCidade",
+        "nullable": true,
+        "type": "string"
+      },
+      {
+        "metadata": {},
+        "name": "Cep",
+        "nullable": true,
+        "type": "string"
+      },
+      {
+        "metadata": {},
+        "name": "PaisID",
+        "nullable": true,
+        "type": "integer"
+      }
+    ],
+    "type": "struct"
+  }

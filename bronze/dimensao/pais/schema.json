@@ -1,0 +1,23 @@
+{
+    "fields": [
+      {
+        "metadata": {},
+        "name": "PaisID",
+        "nullable": true,
+        "type": "integer"
+      },
+      {
+        "metadata": {},
+        "name": "PaisNome",
+        "nullable": true,
+        "type": "string"
+      },
+      {
+        "metadata": {},
+        "name": "SiglaPais",
+        "nullable": true,
+        "type": "string"
+      }
+    ],
+    "type": "struct"
+  }

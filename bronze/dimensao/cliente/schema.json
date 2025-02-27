@@ -1,0 +1,41 @@
+{
+    "fields": [
+      {
+        "metadata": {},
+        "name": "ClienteID",
+        "nullable": true,
+        "type": "integer"
+      },
+      {
+        "metadata": {},
+        "name": "PrimeiroNome",
+        "nullable": true,
+        "type": "string"
+      },
+      {
+        "metadata": {},
+        "name": "NomeDoMeio",
+        "nullable": true,
+        "type": "string"
+      },
+      {
+        "metadata": {},
+        "name": "UltimoNome",
+        "nullable": true,
+        "type": "string"
+      },
+      {
+        "metadata": {},
+        "name": "CidadeID",
+        "nullable": true,
+        "type": "integer"
+      },
+      {
+        "metadata": {},
+        "name": "Endereco",
+        "nullable": true,
+        "type": "string"
+      }
+    ],
+    "type": "struct"
+  }

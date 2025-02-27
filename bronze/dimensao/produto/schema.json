@@ -1,0 +1,59 @@
+{
+    "fields": [
+      {
+        "metadata": {},
+        "name": "ProdutoID",
+        "nullable": true,
+        "type": "integer"
+      },
+      {
+        "metadata": {},
+        "name": "ProdutoNome",
+        "nullable": true,
+        "type": "string"
+      },
+      {
+        "metadata": {},
+        "name": "Preco",
+        "nullable": true,
+        "type": "double"
+      },
+      {
+        "metadata": {},
+        "name": "CategoriaID",
+        "nullable": true,
+        "type": "integer"
+      },
+      {
+        "metadata": {},
+        "name": "Classe",
+        "nullable": true,
+        "type": "string"
+      },
+      {
+        "metadata": {},
+        "name": "DataCadastro",
+        "nullable": true,
+        "type": "date"
+      },
+      {
+        "metadata": {},
+        "name": "Resistencia",
+        "nullable": true,
+        "type": "string"
+      },
+      {
+        "metadata": {},
+        "name": "EAlergico",
+        "nullable": true,
+        "type": "string"
+      },
+      {
+        "metadata": {},
+        "name": "ValidadeDias",
+        "nullable": true,
+        "type": "double"
+      }
+    ],
+    "type": "struct"
+  }

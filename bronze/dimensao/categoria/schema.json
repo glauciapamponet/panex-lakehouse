@@ -1,0 +1,17 @@
+{
+    "fields": [
+      {
+        "metadata": {},
+        "name": "CategoriaID",
+        "nullable": true,
+        "type": "integer"
+      },
+      {
+        "metadata": {},
+        "name": "NomeCategoria",
+        "nullable": true,
+        "type": "string"
+      }
+    ],
+    "type": "struct"
+  }

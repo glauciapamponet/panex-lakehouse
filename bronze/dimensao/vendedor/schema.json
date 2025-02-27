@@ -1,0 +1,53 @@
+{
+    "fields": [
+      {
+        "metadata": {},
+        "name": "VendedorID",
+        "nullable": true,
+        "type": "integer"
+      },
+      {
+        "metadata": {},
+        "name": "PrimeiroNome",
+        "nullable": true,
+        "type": "string"
+      },
+      {
+        "metadata": {},
+        "name": "NomeDoMeio",
+        "nullable": true,
+        "type": "string"
+      },
+      {
+        "metadata": {},
+        "name": "UltimoNome",
+        "nullable": true,
+        "type": "string"
+      },
+      {
+        "metadata": {},
+        "name": "DataNascimento",
+        "nullable": true,
+        "type": "date"
+      },
+      {
+        "metadata": {},
+        "name": "Genero",
+        "nullable": true,
+        "type": "string"
+      },
+      {
+        "metadata": {},
+        "name": "CidadeID",
+        "nullable": true,
+        "type": "integer"
+      },
+      {
+        "metadata": {},
+        "name": "DataAdmissao",
+        "nullable": true,
+        "type": "date"
+      }
+    ],
+    "type": "struct"
+  }

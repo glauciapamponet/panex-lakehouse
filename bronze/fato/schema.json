@@ -1,0 +1,59 @@
+{
+    "fields": [
+      {
+        "metadata": {},
+        "name": "VendaID",
+        "nullable": true,
+        "type": "integer"
+      },
+      {
+        "metadata": {},
+        "name": "ProdutoID",
+        "nullable": true,
+        "type": "integer"
+      },
+      {
+        "metadata": {},
+        "name": "VendedorID",
+        "nullable": true,
+        "type": "integer"
+      },
+      {
+        "metadata": {},
+        "name": "ClienteID",
+        "nullable": true,
+        "type": "integer"
+      },
+      {
+        "metadata": {},
+        "name": "Quantidade",
+        "nullable": true,
+        "type": "integer"
+      },
+      {
+        "metadata": {},
+        "name": "Desconto",
+        "nullable": true,
+        "type": "double"
+      },
+      {
+        "metadata": {},
+        "name": "PrecoTotal",
+        "nullable": true,
+        "type": "double"
+      },
+      {
+        "metadata": {},
+        "name": "DataVenda",
+        "nullable": true,
+        "type": "date"
+      },
+      {
+        "metadata": {},
+        "name": "NumeroTransacao",
+        "nullable": true,
+        "type": "string"
+      }
+    ],
+    "type": "struct"
+  }
