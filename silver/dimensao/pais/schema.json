@@ -1,0 +1,29 @@
+{
+  "fields": [
+    {
+      "metadata": {},
+      "name": "PaisID",
+      "nullable": true,
+      "type": "integer"
+    },
+    {
+      "metadata": {},
+      "name": "PaisNome",
+      "nullable": true,
+      "type": "string"
+    },
+    {
+      "metadata": {},
+      "name": "SiglaPais",
+      "nullable": true,
+      "type": "string"
+    },
+    {
+      "metadata": {},
+      "name": "DATA_ATUALIZACAO",
+      "nullable": true,
+      "type": "timestamp"
+    }
+  ],
+  "type": "struct"
+}

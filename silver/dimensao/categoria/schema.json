@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "metadata": {},
+      "name": "CategoriaID",
+      "nullable": true,
+      "type": "integer"
+    },
+    {
+      "metadata": {},
+      "name": "NomeCategoria",
+      "nullable": true,
+      "type": "string"
+    },
+    {
+      "metadata": {},
+      "name": "DATA_ATUALIZACAO",
+      "nullable": true,
+      "type": "timestamp"
+    }
+  ],
+  "type": "struct"
+}
